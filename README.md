@@ -29,3 +29,19 @@ Here are some ideas to get you started:
 #### My github Stats
 
 ![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhamadNurRizkii&show_icons=true&theme=holi)
+
+<h3 align="left">Play games with me</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/MuhamadNurRizkii/MuhamadNurRizkii/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhamadNurRizkii/MuhamadNurRizkii/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhamadNurRizkii/MuhamadNurRizkii/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MuhamadNurRizkii/MuhamadNurRizkii/output/pacman-contribution-graph.svg">
+</picture>
+
+###
