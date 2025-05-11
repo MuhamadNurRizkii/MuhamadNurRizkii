@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 - I'm currently learning [**express**](https://expressjs.com/)
 
-![Muhamad Nur Rizki](../img/profil-ghilbi.png)
+![Muhamad Nur Rizki](img/profil-ghilbi.png)
