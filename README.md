@@ -1,4 +1,4 @@
-![Muhamad Nur Rizki](img/banner-profil.png)
+![Muhamad Nur Rizki](img/new-banner-profile.png)
 
 <!--
 **MuhamadNurRizkii/MuhamadNurRizkii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
