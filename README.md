@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 
 ![https://www.instagram.com/mnurrizkii_/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/muhamad-nur-rizki-5ba0a4319/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://www.tiktok.com/@ikyysiapabanh](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)
 
-#### My github Stats
-
-![Rizki's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhamadNurRizkii&show_icons=true&theme=holi)
 
 <h3 align="left">Play games with me</h3>
 
